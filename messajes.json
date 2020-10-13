@@ -1,0 +1,55 @@
+[
+    {
+        "message": "Some Message",
+        "first_name": "Carlos",
+        "last_name": "Diaz",
+        "email": "carlos@email.com",
+        "photo": "https://booksloth-profile.jpg",
+        "replies": [],
+        "likes": []
+    }, 
+    {
+        "message": "I think Maven wasn't very likable in Red Queen.",
+        "first_name": "Elizabeth",
+        "last_name": "Lauren",
+        "email": "elizabeth@email.com",
+        "photo": "https://booksloth-profile.jpg",
+        "replies": [
+            {
+                "message": "Why? I think his actions were very important for his character development.",
+                "first_name": "Maureen",
+                "last_name": "",
+                "email": "maureen@booksloth.com",
+                "photo": "https://booksloth-profilejpg",
+                    "likes": [
+                        {
+                            "first_name": "John",
+                            "last_name": "Preston",
+                            "email": "johnjpreston@jjpny.com",
+                            "photo": "https://booksloth-profilejpg"
+                        },
+                        {
+                            "first_name": "Carrie",
+                            "last_name": "Bradshaw",
+                            "email": "carriebradshaw@bradshaw.com",
+                            "photo": "https://booksloth-profilejpg"
+                        }
+                    ]
+            }
+        ],
+        "likes": [
+            {
+                "first_name": "John",
+                "last_name": "Preston",
+                "email": "johnjpreston@jjpny.com",
+                "photo": "https://booksloth-profilejpg"
+            },
+            {
+                "first_name": "Carrie",
+                "last_name": "Bradshaw",
+                "email": "carriebradshaw@bradshaw.com",
+                "photo": "https://booksloth-profilejpg"
+            }
+        ]
+    }
+]
